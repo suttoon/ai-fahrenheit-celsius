@@ -1,4 +1,4 @@
-<h1 align="left">Celsius to Fahrenheit AI</h1>
+<h1 align="left">ai-fahrenheit-celsius</h1>
 
 <p align="left">This code implements a deep neural network model using TensorFlow, a
 popular library for machine learning. The purpose of the model is to learn
