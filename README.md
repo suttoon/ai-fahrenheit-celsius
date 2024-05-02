@@ -19,11 +19,3 @@
 ###
 
 <p align="left">The code was created using TensorFlow, an open-source library for machine learning and neural networks. A sequential neural network with multiple hidden layers and an output layer was implemented. The configuration of the neural network is done using the high-level Keras API, which is integrated into TensorFlow.</p>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-</div>
-
-###
