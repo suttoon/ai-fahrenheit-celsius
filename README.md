@@ -1,3 +1,7 @@
 <h1 align="left">Celsius to Fahrenheit AI</h1>
 
-<p align="left">This project provides a Python implementation using TensorFlow to convert Celsius to Fahrenheit degrees using a neural network. The neural network is trained with a dataset that relates temperatures in Celsius degrees to their equivalents in Fahrenheit degrees. Once trained, the network can perform accurate conversions based on user input.</p>
+<p align="left">This code implements a deep neural network model using TensorFlow, a
+popular library for machine learning. The purpose of the model is to learn
+the relationship between temperatures in degrees Celsius and Fahrenheit.
+To achieve this, the code employs a deep neural network composed of
+several hidden layers.</p>
